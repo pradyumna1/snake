@@ -1,0 +1,21 @@
+#root {
+    text-align: center;
+}
+
+.grid-row {
+    margin-top: -5px;
+    padding: 0;
+}
+
+.square {
+    width: 10px;
+    height: 10px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+}
+
+.normal {
+    background-color: aqua;
+}
