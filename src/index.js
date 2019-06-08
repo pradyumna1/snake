@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import utils from './lib/utils';
+import {getInitialState} from './lib/utils';
 
 class Square extends React.Component {
     constructor(props) {
